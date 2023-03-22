@@ -1,0 +1,12 @@
+C:\Users\Mr.Jay\source\repos\Simple Interest Calculator\Simple Interest Calculator\bin\Debug\Simple Interest Calculator.exe.config
+C:\Users\Mr.Jay\source\repos\Simple Interest Calculator\Simple Interest Calculator\bin\Debug\Simple Interest Calculator.exe
+C:\Users\Mr.Jay\source\repos\Simple Interest Calculator\Simple Interest Calculator\bin\Debug\Simple Interest Calculator.pdb
+C:\Users\Mr.Jay\source\repos\Simple Interest Calculator\Simple Interest Calculator\bin\Debug\Simple Interest Calculator.xml
+C:\Users\Mr.Jay\source\repos\Simple Interest Calculator\Simple Interest Calculator\obj\Debug\Simple Interest Calculator.vbproj.AssemblyReference.cache
+C:\Users\Mr.Jay\source\repos\Simple Interest Calculator\Simple Interest Calculator\obj\Debug\Simple_Interest_Calculator.Form1.resources
+C:\Users\Mr.Jay\source\repos\Simple Interest Calculator\Simple Interest Calculator\obj\Debug\Simple_Interest_Calculator.Resources.resources
+C:\Users\Mr.Jay\source\repos\Simple Interest Calculator\Simple Interest Calculator\obj\Debug\Simple Interest Calculator.vbproj.GenerateResource.cache
+C:\Users\Mr.Jay\source\repos\Simple Interest Calculator\Simple Interest Calculator\obj\Debug\Simple Interest Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\Mr.Jay\source\repos\Simple Interest Calculator\Simple Interest Calculator\obj\Debug\Simple Interest Calculator.exe
+C:\Users\Mr.Jay\source\repos\Simple Interest Calculator\Simple Interest Calculator\obj\Debug\Simple Interest Calculator.xml
+C:\Users\Mr.Jay\source\repos\Simple Interest Calculator\Simple Interest Calculator\obj\Debug\Simple Interest Calculator.pdb
